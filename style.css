@@ -1,0 +1,43 @@
+
+body{
+    color:rgb(43, 43, 89);
+    background:rgb(123, 30, 30);
+    margin: 0px;
+    font-family: "Instrument Serif", sans-serif;
+}
+header{
+    border-bottom: solid 2px rgb(82, 31, 31);
+    padding: 20px;
+    font-size: 30px;
+    color: rgb(40, 40, 89);
+
+}
+
+section{ 
+    background: rgb(155, 78, 78);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto{
+     margin-right: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
